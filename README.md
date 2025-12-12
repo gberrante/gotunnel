@@ -2,9 +2,7 @@
 
 # Simple TCP Tunnel application
 
-We were tired of complicated `netsh`,`iptables`,`socat` commands, so we wrote this simple TCP tunnel application in Go.
-
-
+I was tired of complicated `netsh`,`iptables`,`socat` commands, so I wrote this simple TCP tunnel application in Go.
 
 
 ## Description
